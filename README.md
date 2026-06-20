@@ -371,7 +371,7 @@ If you have suggestions for improvements or discover any issues, feel free to:
 
 **Humair Ali**
 
-Cybersecurity Enthusiast • Python Developer • Full-Stack Learner
+Cybersecurity Enthusiast • Python Developer • Full-Stack Learner  
 If you found this project useful, consider giving the repository a ⭐ on GitHub!
 
 ---
