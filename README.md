@@ -41,7 +41,6 @@ The goal is both **education** and **practical password evaluation**.
 ## ⚡ Real-Time Password Analysis
 
 No submit button required.
-
 The password is analyzed instantly while typing, providing immediate feedback about its security.
 
 ---
@@ -90,7 +89,6 @@ Displays which security criteria have been met.
 ### Circular Strength Gauge
 
 Shows the overall password score on an easy-to-read radial indicator.
-
 Visualizations update instantly as the password changes.
 
 ---
@@ -150,7 +148,6 @@ Perfect for creating passwords suitable for modern security standards.
 ## 📋 Copy to Clipboard
 
 Copy generated or analyzed passwords instantly using a single button.
-
 Visual feedback confirms successful copying.
 
 ---
@@ -182,7 +179,6 @@ For privacy:
 Supports both:
 
 🌞 Light Theme
-
 🌙 Dark Theme
 
 Designed with a clean layout that remains responsive across different screen sizes.
@@ -193,7 +189,7 @@ Designed with a clean layout that remains responsive across different screen siz
 
 | Light Theme             | Dark Theme              |
 | ----------------------- | ----------------------- |
-| *(Add screenshot here)* | *(Add screenshot here)* |
+| ![alt text](image.png)  | ![alt text](image-1.png)|
 
 Example folder structure:
 
@@ -240,7 +236,6 @@ pip install matplotlib numpy
 ```
 
 Tkinter is included with most Python installations.
-
 Ubuntu users may install it separately:
 
 ```bash
@@ -307,11 +302,8 @@ Example:
 Password:
 
 Tr0ub4dor!@
-
 Length = 11
-
 Character Pool = 94
-
 Entropy ≈ 72 Bits
 ```
 
@@ -367,7 +359,6 @@ Planned enhancements include:
 # 🤝 Contributing
 
 Contributions are welcome!
-
 If you have suggestions for improvements or discover any issues, feel free to:
 
 * Open an Issue
@@ -381,7 +372,6 @@ If you have suggestions for improvements or discover any issues, feel free to:
 **Humair Ali**
 
 Cybersecurity Enthusiast • Python Developer • Full-Stack Learner
-
 If you found this project useful, consider giving the repository a ⭐ on GitHub!
 
 ---
