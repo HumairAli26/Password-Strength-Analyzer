@@ -189,7 +189,9 @@ Designed with a clean layout that remains responsive across different screen siz
 
 | Light Theme             | Dark Theme              |
 | ----------------------- | ----------------------- |
-|Python/Password Strength Analyzer/screenshots/light.png |Python/Password Strength Analyzer/screenshots/dark.png|
+|<img width="1916" height="1019" alt="light" src="https://github.com/user-attachments/assets/98d65ad4-96cf-4122-93d3-8eb0409504ef" />
+ |<img width="1910" height="1024" alt="dark" src="https://github.com/user-attachments/assets/da8a8d27-c522-483f-b6dc-07f6ac38a9c5" />
+|
 
 Example folder structure:
 
